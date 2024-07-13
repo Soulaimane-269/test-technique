@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "669258e8493d875111f45da6"
+  },
+  "name": "AC1 Phone1",
+  "price": 200.05,
+  "rating": 3.8,
+  "warranty_years": 1,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-07-13T10:37:28.559Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T10:37:28.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6692593d493d875111f45da8"
+  },
+  "name": "AC2 Phone2",
+  "price": 147.21,
+  "rating": 1,
+  "warranty_years": 3,
+  "available": false,
+  "createdAt": {
+    "$date": "2024-07-13T10:38:53.182Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T10:38:53.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66925950493d875111f45daa"
+  },
+  "name": "AC3 Phone3",
+  "price": 150,
+  "rating": 2,
+  "warranty_years": 1,
+  "available": true,
+  "createdAt": {
+    "$date": "2024-07-13T10:39:12.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T10:39:12.691Z"
+  },
+  "__v": 0
+}]
